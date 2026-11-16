@@ -173,6 +173,7 @@ python tests/samples.py examples   # regenerate the demo PDFs
 
 | Repository | Description | Domain |
 | :--- | :--- | :--- |
+| 🧪 [**promptunit**](https://github.com/Gana-Y/promptunit) | Pytest-native unit tests for LLM prompts, chains & agents with replay caching & fluent assertions. | `AI Evals / Prompt Testing` |
 | 🪔 [**indickit**](https://github.com/Gana-Y/indickit) | Zero-dependency Indian NLP toolkit & rule-based LLM benchmark for 10 Indian languages. | `NLP / Indic LLM Evals` |
 | 🚀 [**Florix_AI**](https://github.com/Gana-Y/Florix_AI) | Production-grade multimodal AI study platform with in-database RAG and adaptive spaced repetition. | `Full-Stack RAG / AI` |
 | ⚡ [**vesper-engine**](https://github.com/Gana-Y/vesper-engine) | High-performance sandboxed code execution engine & 7-state POSIX arbiter with Linux cgroups v2. | `Systems / Sandbox` |
