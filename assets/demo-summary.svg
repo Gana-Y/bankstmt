@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="520" viewBox="0 0 700 520" role="img" aria-label="bankstmt summary">
+<rect width="700" height="520" rx="10" fill="#0d1117"/>
+<rect width="700" height="34" rx="10" fill="#161b22"/><rect y="24" width="700" height="10" fill="#161b22"/>
+<circle cx="20" cy="17" r="6" fill="#ff5f56"/><circle cx="40" cy="17" r="6" fill="#ffbd2e"/><circle cx="60" cy="17" r="6" fill="#27c93f"/>
+<text x="350" y="22" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Noto Sans', 'Noto Sans Kannada', 'Noto Sans Devanagari', Helvetica, Arial, sans-serif" font-size="12" fill="#8b949e">bankstmt summary</text>
+<text x="18.0" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#56d364" xml:space="preserve">$</text>
+<text x="33.7" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#f0f6fc" xml:space="preserve">bankstmt</text>
+<text x="104.1" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#f0f6fc" xml:space="preserve">summary</text>
+<text x="166.7" y="62" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#f0f6fc" xml:space="preserve">statement.pdf</text>
+<text x="18.0" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Bank</text>
+<text x="111.9" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">:</text>
+<text x="127.6" y="82" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Unknown</text>
+<text x="18.0" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Period</text>
+<text x="111.9" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">:</text>
+<text x="127.6" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">01</text>
+<text x="151.0" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Apr</text>
+<text x="182.3" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">2024</text>
+<text x="221.5" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">to</text>
+<text x="245.0" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">02</text>
+<text x="268.4" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">May</text>
+<text x="299.7" y="102" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">2024</text>
+<text x="18.0" y="122" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Transactions:</text>
+<text x="127.6" y="122" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">14</text>
+<text x="18.0" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Closing</text>
+<text x="80.6" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">bal</text>
+<text x="111.9" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">:</text>
+<text x="158.9" y="142" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">179,369.55</text>
+<text x="18.0" y="162" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Money</text>
+<text x="65.0" y="162" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">in</text>
+<text x="111.9" y="162" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">:</text>
+<text x="158.9" y="162" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">247,312.75</text>
+<text x="18.0" y="182" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Money</text>
+<text x="65.0" y="182" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">out</text>
+<text x="111.9" y="182" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">:</text>
+<text x="158.9" y="182" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">167,943.20</text>
+<text x="18.0" y="202" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Balance</text>
+<text x="80.6" y="202" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">check:</text>
+<text x="135.4" y="202" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">13/13</text>
+<text x="182.3" y="202" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">rows</text>
+<text x="221.5" y="202" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">reconcile</text>
+<text x="18.0" y="242" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Month</text>
+<text x="182.3" y="242" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">In</text>
+<text x="284.1" y="242" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Out</text>
+<text x="393.6" y="242" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Net</text>
+<text x="432.8" y="242" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Txns</text>
+<text x="18.0" y="262" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">2024-04</text>
+<text x="119.7" y="262" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">247,312.75</text>
+<text x="229.3" y="262" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">167,712.20</text>
+<text x="346.7" y="262" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">79,600.55</text>
+<text x="448.4" y="262" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">13</text>
+<text x="18.0" y="282" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">2024-05</text>
+<text x="166.7" y="282" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">0.00</text>
+<text x="260.6" y="282" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">231.00</text>
+<text x="362.3" y="282" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">-231.00</text>
+<text x="456.3" y="282" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">1</text>
+<text x="18.0" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#56d4dd" font-weight="bold" xml:space="preserve">Where</text>
+<text x="65.0" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#56d4dd" font-weight="bold" xml:space="preserve">the</text>
+<text x="96.3" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#56d4dd" font-weight="bold" xml:space="preserve">money</text>
+<text x="143.2" y="322" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#56d4dd" font-weight="bold" xml:space="preserve">went</text>
+<text x="33.7" y="342" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Shopping</text>
+<text x="190.2" y="342" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">123,456.00</text>
+<text x="291.9" y="342" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">73.5%</text>
+<text x="346.7" y="342" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">██████████████████</text>
+<text x="33.7" y="362" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Transfers</text>
+<text x="198.0" y="362" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">22,000.00</text>
+<text x="291.9" y="362" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">13.1%</text>
+<text x="346.7" y="362" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">███</text>
+<text x="33.7" y="382" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Loan</text>
+<text x="72.8" y="382" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">/</text>
+<text x="88.4" y="382" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">EMI</text>
+<text x="198.0" y="382" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">14,500.00</text>
+<text x="299.7" y="382" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">8.6%</text>
+<text x="346.7" y="382" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">██</text>
+<text x="33.7" y="402" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Cash</text>
+<text x="72.8" y="402" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Withdrawal</text>
+<text x="205.8" y="402" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">5,000.00</text>
+<text x="299.7" y="402" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">3.0%</text>
+<text x="346.7" y="402" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">█</text>
+<text x="33.7" y="422" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Bills</text>
+<text x="80.6" y="422" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">&amp;</text>
+<text x="96.3" y="422" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Utilities</text>
+<text x="205.8" y="422" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">1,250.50</text>
+<text x="299.7" y="422" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">0.7%</text>
+<text x="346.7" y="422" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">█</text>
+<text x="33.7" y="442" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Food</text>
+<text x="72.8" y="442" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">&amp;</text>
+<text x="88.4" y="442" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Dining</text>
+<text x="221.5" y="442" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">839.00</text>
+<text x="299.7" y="442" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">0.5%</text>
+<text x="346.7" y="442" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">█</text>
+<text x="33.7" y="462" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Entertainment</text>
+<text x="221.5" y="462" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">649.00</text>
+<text x="299.7" y="462" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">0.4%</text>
+<text x="346.7" y="462" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">█</text>
+<text x="33.7" y="482" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">Travel</text>
+<text x="221.5" y="482" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">231.00</text>
+<text x="299.7" y="482" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">0.1%</text>
+<text x="346.7" y="482" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'DejaVu Sans Mono', 'Liberation Mono', monospace" font-size="13" fill="#c9d1d9" xml:space="preserve">█</text>
+</svg>

@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bankstmt"
+version = "0.1.0"
+description = "Convert Indian bank statement PDFs to clean CSV, JSON or Excel. Runs 100% locally, verifies running balances, handles password-protected files."
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+license-files = ["LICENSE"]
+authors = [{ name = "Ganesh Yandigeri", email = "ganeshyandigeri1@gmail.com" }]
+keywords = ["bank-statement", "pdf", "india", "upi", "csv", "parser", "finance", "personal-finance", "pdfplumber"]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "Intended Audience :: End Users/Desktop",
+    "Programming Language :: Python :: 3",
+    "Topic :: Office/Business :: Financial",
+]
+dependencies = ["pdfplumber>=0.10"]
+
+[project.optional-dependencies]
+xlsx = ["openpyxl>=3.1"]
+dev = ["pytest>=7", "reportlab>=4", "openpyxl>=3.1", "ruff"]
+
+[project.urls]
+Homepage = "https://github.com/Gana-Y/bankstmt"
+Issues = "https://github.com/Gana-Y/bankstmt/issues"
+
+[project.scripts]
+bankstmt = "bankstmt.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]
